@@ -31,7 +31,7 @@
 
 * Application's CSS file is properly commented.
 
-* Live URL. [Horiseon.com](https:///) 
+* Live URL. [Horiseon.com](https://luiz-araujjo.github.io/horiseon-code-refactor/) 
 
 * Application loads with no errors. 
 
